@@ -1,0 +1,49 @@
+name: SFDX Create Scratch Org
+
+on:
+  
+  issues: 
+    types: [assigned]
+    
+env:
+  DURATION_DAYS: 30
+        
+jobs:      
+  setup:
+    runs-on: ubuntu-latest
+    if: github.event_name == 'issues' && github.event.action == 'assigned'        
+    steps:
+      - uses: actions/checkout@v2  
+     
+      - name: Write the token into a file
+        run: 'echo ${{ secrets.AUTH_SECRET}} > token.txt'
+      - name: Install Salesforce CLI
+        run: |
+          wget https://developer.salesforce.com/media/salesforce-cli/sfdx-linux-amd64.tar.xz
+          mkdir sfdx-cli
+          tar xJf sfdx-linux-amd64.tar.xz -C sfdx-cli --strip-components 1
+          ./sfdx-cli/install
+      - name: Auth with the DevHub
+        run: 'sfdx force:auth:sfdxurl:store -f token.txt -a DevHub -d'
+     
+      - name: Create Issue Branch
+        id: Create_Issue_Branch
+        uses: robvanderleek/create-issue-branch@master
+        env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Branch Name
+        run: echo ${{ steps.Create_Issue_Branch.outputs.branchName }}            
+
+      - name: Set env
+        run: |
+          echo "SCRATCH_NAME=$(echo ${{ steps.Create_Issue_Branch.outputs.branchName }})" >> $GITHUB_ENV
+      - name: Create scratch org
+        run: 'sfdx force:org:create -f config/project-scratch-def.json -a ${{ env.SCRATCH_NAME }} --durationdays ${{ env.DURATION_DAYS }}'
+      - name: Generate password
+        run: 'sfdx force:user:password:generate -u ${{ env.SCRATCH_NAME }}'
+      - name: Push source
+        run: 'sfdx force:source:push -u ${{ env.SCRATCH_NAME }}'
+      - name: List orgs
+        run: 'sfdx force:org:list'
+      - name: Open org
+        run : 'sfdx force:org:open -u ${{ env.SCRATCH_NAME }}'
