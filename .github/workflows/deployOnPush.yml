@@ -1,0 +1,20 @@
+name: SFDX Deploy to Org on Push
+
+on: 
+  push:
+    branches: 
+      - master
+
+jobs:
+  prod:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      
+      - uses: sfdx-actions/setup-sfdx@v1
+        with:
+          sfdx-auth-url: ${{ secrets.AUTH_SECRET }}
+      - name: 'Convert Metadata'
+        run: sfdx force:source:convert --rootdir=force-app --outputdir=convert
+      - name: 'Deploy'
+        run: sfdx force:source:deploy -x manifest/package.xml -u deodato.cunha@c3csoftware.com.br.brq -w 30 
