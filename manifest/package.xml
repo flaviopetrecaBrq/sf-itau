@@ -5,7 +5,7 @@
 		<name>CustomObject</name>
 	</types>
 	  <types>
-        <members>unfiled$public/Teste_Template</members>
+        <members>unfiled$public/Teste_Template_Demo</members>
         <name>EmailTemplate</name>
     </types>
 	<version>46.0</version>
