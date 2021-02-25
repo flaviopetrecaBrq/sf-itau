@@ -45,3 +45,5 @@ jobs:
         run: 'sfdx force:org:list'
       - name: Open org
         run : 'sfdx force:org:open -u ${{ env.SCRATCH_NAME }}'
+      - name: Push source
+        run: 'sfdx force:source:push -u ${{ env.SCRATCH_NAME }}'
