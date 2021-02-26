@@ -14,7 +14,7 @@
         <isOptional>false</isOptional>
     </lookupFilter>
     <referenceTo>Account</referenceTo>
-    <relationshipLabel>Contas bancárias</relationshipLabel>
+    <relationshipLabel>Conta</relationshipLabel>
     <relationshipName>Contas_bancarias</relationshipName>
     <required>false</required>
     <trackHistory>false</trackHistory>
