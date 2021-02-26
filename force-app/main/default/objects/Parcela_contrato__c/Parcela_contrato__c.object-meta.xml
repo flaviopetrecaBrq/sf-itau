@@ -165,7 +165,11 @@
         <type>AutoNumber</type>
     </nameField>
     <pluralLabel>Parcelas do contrato</pluralLabel>
-    <searchLayouts/>
+    <searchLayouts>
+        <searchResultsAdditionalFields>Contrato__c</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>Valor__c</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>Data_vencimento__c</searchResultsAdditionalFields>
+    </searchLayouts>
     <sharingModel>ControlledByParent</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>
