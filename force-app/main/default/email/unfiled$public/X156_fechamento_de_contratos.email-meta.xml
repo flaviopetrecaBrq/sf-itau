@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <name>156 fechamento de contratos</name>
+    <style>none</style>
+    <subject>Reserva de PTAX − Fechamento de Câmbio para Empréstimos Externos</subject>
+    <textOnly>Reserva de PTAX − Fechamento de Câmbio para
+       Empréstimos Externos
+
+
+
+Sim, quero reservar a Ptax para a operação indicada no
+quadro acima, nos valores de Principal e Juros que lá
+constam, para D-1 de 30/10/2020.
+
+
+
+Não quero reservar a Ptax, efetuarei o pagamento de outra forma.</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>
