@@ -12,7 +12,7 @@
             </componentInstanceProperties>
             <componentInstanceProperties>
                 <name>enableActionsInNative</name>
-                <value>false</value>
+                <value>false</value> 
             </componentInstanceProperties>
             <componentInstanceProperties>
                 <name>hideChatterActions</name>
