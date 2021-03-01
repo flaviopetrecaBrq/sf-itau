@@ -263,5 +263,9 @@
 		<members>*</members>
 		<name>Workflow</name>
 	</types>
+	<types>
+		<members>*</members>
+		<name>FlexiPage</name>
+	</types>
 	<version>50.0</version>
 </Package>
