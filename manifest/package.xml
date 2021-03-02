@@ -60,7 +60,7 @@
 		<members>*</members>
 		<name>ConnectedApp</name>
 	</types>
-	<types>
+	<types> 
 		<members>*</members>
 		<name>ContentAsset</name>
 	</types>
