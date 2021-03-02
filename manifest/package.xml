@@ -60,7 +60,7 @@
 		<members>*</members>
 		<name>ConnectedApp</name>
 	</types>
-	<types>
+	<types> 
 		<members>*</members>
 		<name>ContentAsset</name>
 	</types>
@@ -264,8 +264,18 @@
 		<name>Workflow</name>
 	</types>
 	<types>
-		<members>*</members>
-		<name>FlexiPage</name>
+	<members>unfiled$public/X126_Aviso_Vencimento</members>
+	<members>unfiled$public/X126_fechamento_de_contratos</members>
+	<members>unfiled$public/X156_fechamento_de_contratos</members>
+	<members>unfiled$public/X158_Aviso_de_vencimento</members>
+	<members>unfiled$public/X159_Aviso_de_Vencimento_Duplicidade</members>
+	<members>unfiled$public/X159_Aviso_de_vencimento_n_o_reservada</members>
+		<name>EmailTemplate</name>
 	</types>
+    <types>
+        <members>*</members>
+        <name>FlexiPage</name>
+    </types>
+	
 	<version>50.0</version>
 </Package>
