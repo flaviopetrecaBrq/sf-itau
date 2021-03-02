@@ -272,5 +272,10 @@
 	<members>unfiled$public/X159_Aviso_de_vencimento_n_o_reservada</members>
 		<name>EmailTemplate</name>
 	</types>
-	<version>46.0</version>
+    <types>
+        <members>*</members>
+        <name>FlexiPage</name>
+    </types>
+	
+	<version>50.0</version>
 </Package>
