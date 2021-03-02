@@ -5,4 +5,5 @@
     <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
     <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
     <tabs>standard-AppLauncher</tabs>
+    <tabs>Conta_bancaria__c</tabs>
 </CustomApplication>
