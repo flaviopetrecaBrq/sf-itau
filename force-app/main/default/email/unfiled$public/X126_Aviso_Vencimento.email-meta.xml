@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Reserva Ptax não realizada</description>
+    <encodingKey>UTF-8</encodingKey>
+    <letterhead>X126_Aviso_Vencimento</letterhead>
+    <name>126 Aviso Vencimento</name>
+    <style>formalLetter</style>
+    <subject>Reserva Ptax não realizada</subject>
+    <textOnly>Prezado(a),
+
+Informamos que infelizmente nossos sistemas não reconheceram a sua resposta.
+
+Portanto a PTAX não foi reservada.
+
+Lembre-se que você deve realizar os pagamentos devidos até a data do vencimento.
+
+Caso o câmbio seja contratado com outra instituição, favor enviar a cópia dos Contratos de Câmbio referentes as parcelas de Principal e Juros e a DARF relativa ao pagamento do tributo incidente sobre os Juros. Não aceitamos PERD/COMP.
+
+A partir deste momento, não será mais possível reservar a PTAX para a parcela em questão. Caso pretenda fechar o câmbio com o Itaú Unibanco, entre em contato com a Mesa de Câmbio tempestivamente.
+
+Bons negócios.
+dê preferência aos canais digitais
+
+
+
+
+
+
+
+
+
+
+
+
+Central de atendimento
+4090 1685 Capitais e regiões metropolitanas com telefones celulares. 0800 770 1685 Demais localidades somente chamadas de telefone fixo. Consultas, informações, reclamações e transações, todos os dias, 24h por dia.
+
+
+
+SAC: 0800 728 0728 Reclamações, cancelamentos e informações gerais, todos os dias, 24h por dia
+Ouvidoria: 0800 570 Se não ficar satisfeito com a solução apresentada, contate a Ouvidoria em dias úteis, das 9h às 18h Deficiente auditivo/fala: 0800 722 1722 Todos os dias, 24h por dia</textOnly>
+    <type>html</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>
