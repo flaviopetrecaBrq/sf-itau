@@ -53,7 +53,7 @@
 		<name>Certificate</name>
 	</types>
 	<types>
-		<members>*</members>
+		<members>*</members> 
 		<name>Community</name>
 	</types>
 	<types>
