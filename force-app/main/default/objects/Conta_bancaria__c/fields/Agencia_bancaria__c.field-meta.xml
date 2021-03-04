@@ -4,6 +4,15 @@
     <deleteConstraint>SetNull</deleteConstraint>
     <externalId>false</externalId>
     <label>Agência bancária</label>
+    <lookupFilter>
+        <active>true</active>
+        <filterItems>
+            <field>Account.Parent.RecordTypeId</field>
+            <operation>equals</operation>
+            <value>Agencia</value>
+        </filterItems>
+        <isOptional>false</isOptional>
+    </lookupFilter>
     <referenceTo>Account</referenceTo>
     <relationshipLabel>Agência bancária</relationshipLabel>
     <relationshipName>Contasbancarias</relationshipName>
