@@ -17,4 +17,4 @@ jobs:
       - name: 'Convert Metadata'
         run: sfdx force:source:convert --rootdir=force-app --outputdir=convert
       - name: 'Deploy'
-        run: sfdx force:source:deploy -x manifest/package.xml -u deodato.cunha@c3csoftware.com.br.brq -w 30 
+        run: sfdx force:source:deploy -x manifest/package.xml -u rafael.leite@c3csoftware.com.br.brq -w 30 
