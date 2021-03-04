@@ -1,0 +1,181 @@
+<!doctype html>
+<html> 
+    <head> 
+</head>
+    <body>
+        
+        <div class="logo" style="margin: 10px;"> 
+<img src="https://data-business-3154-dev-ed--c.documentforce.com/servlet/servlet.ImageServer?id=0150t000000e6fp&oid=00D0t000000I7Xb&lastMod=1614176594000" /></div>
+    <div class="RPTAX" style="color: #6c757d; background-color:#c8c8c8; font-family: arial; font-size:26px; padding:37px; text-align: center; font-weight: bold;"> 
+        <p style="padding-top:20px; padding-bottom:20px;" >Reserva de PTAX − Fechamento de Câmbio para<br>
+       Empréstimos Externos
+        </p>
+        
+    </div>
+    
+        
+        <!----------- inicio ------------------->
+    <div class="corpo"> <p style="color: #ec7000; font-weight: bold; font-family: arial; font-size: 20px; padding:15px;"> 
+Prezado(a),</p>
+
+        <p style="color:#6c6d70; font-family: arial; font-size: 20px; padding:05px; ">Informamos que a operação abaixo vencerá em breve e você já<br> pode fazer a reserva da PTAX para fechamento dos Contratos<br> de Câmbio referentes à liquidação de Empréstimos Externos.<br><br>
+        A reserva da PTAX pode ser feita por e-mail, sem a necessidade<br> de ligar para a Mesa de câmbio. Para tanto, basta selecionar a<br> opção SIM abaixo e nos enviar o e-mail que é automaticamente <br> gerado. Posteriormente, você receberá por e-mail os Contratos<br> referentes ao fechamento do Câmbio e deverá enviar ao banco<br> uma via original devidamente assinada ou assiná-los<br> diretamente no Bankline.</p>
+    
+        <img src="https://data-business-3154-dev-ed--c.documentforce.com/servlet/servlet.ImageServer?id=0150t000000e6oU&oid=00D0t000000I7Xb&lastMod=1614178011000"/>
+       
+        <p style="color: #ec7000; font-weight: bold; font-family: arial; font-size: 23px; padding:05px;"> 
+            Importante:</p>
+        
+        <ul style="color:#6c6d70; font-family: arial; font-size: 20px; padding-left: 50px;">
+            <li> A reserva da Ptax por e-mail deve ser feita até o dia<br> 09/10/2020 às 17:00:00. Solicitações recebidas após essa data e horário não serão acatadas.<br></li>
+            <li>A Ptax utilizada será a divulgada pelo Banco Central no dia 12/10/2020 (PTAX Venda)</li><br>
+            <li>O valor em Reais será debitado no dia 13/10/2020 na AG e<br> C/C informada abaixo. Nesta data, é fundamental que os<br> Reais estejam disponíveis na conta corrente até os seguintes horários:<br></li>
+        
+            ✓ EUR 11 horas<br>
+        
+            ✓ USD 18 horas<br><br>
+        
+            <li> Qualquer e-mail recebido após a seleção da opção abaixo será desconsiderado.</li></ul>
+        <!-------------------------------------------------Tabela informações --------------------------------------------->
+        
+        <table style="width:75%;" >
+             
+            <tr >
+                <td style="color: #ec7000; font-weight: bold; font-family: arial; font-size: 23px; padding:10px;  background-color:#efe9e5">Credor</td>
+             <td style="color: #6c6d70 ; font-weight: bold; font-family: arial; font-size: 23px; padding:10px;  background-color:#faf7f5;">Itaú Unibanco S.A. Nassau Branch</td>
+           </tr>
+            
+             <tr>
+                <td style="color: #ec7000; font-weight: bold; font-family: arial; font-size: 23px; padding:10px;  background-color:#efe9e5">Cliente</td>
+                <td style="color: #6c6d70 ; font-weight: bold; font-family: arial; font-size: 23px; padding:10px;  background-color:#faf7f5;">      
+    FORNO DE MINAS ALIMENTOS SA</td>
+           </tr>
+            
+             <tr>
+                <td style="color: #ec7000; font-weight: bold; font-family: arial; font-size: 23px; padding:10px;  background-color:#efe9e5">
+                 Produto</td>
+                <td style="color: #6c6d70 ; font-weight: bold; font-family: arial; font-size: 23px; padding:10px;  background-color:#faf7f5;">
+                4131</td>
+           </tr>
+             
+            <tr>
+                <td style="color: #ec7000; font-weight: bold; font-family: arial; font-size: 23px; padding:10px;  background-color:#efe9e5">
+                  Data de vencimento</td>
+               <td style="color: #6c6d70 ; font-weight: bold; font-family: arial; font-size: 23px; padding:10px;  background-color:#faf7f5;">
+             13/10/2020</td>
+        </tr>
+            
+            
+             <tr>
+                <td style="color: #ec7000; font-weight: bold; font-family: arial; font-size: 23px; padding:10px;  background-color:#efe9e5">
+                 Contrato</td>
+                <td style="color: #6c6d70 ; font-weight: bold; font-family: arial; font-size: 23px; padding:10px;  background-color:#faf7f5;">              
+AGE1100110</td>
+           </tr>
+            
+             <tr >
+                <td style="color: #ec7000; font-weight: bold; font-family: arial; font-size: 23px; padding:10px;  background-color:#efe9e5">Principal</td>
+                 <td style="color: #6c6d70 ; font-weight: bold; font-family: arial; font-size: 23px; padding:10px;  background-color:#faf7f5;">      
+      EUR 511808,71</td>
+           </tr>
+            
+             <tr>
+                <td style="color: #ec7000; font-weight: bold; font-family: arial; font-size: 23px; padding:10px;  background-color:#efe9e5">
+                  Juros</td>
+              <td style="color: #6c6d70 ; font-weight: bold; font-family: arial; font-size: 23px; padding:10px;  background-color:#faf7f5;">EUR 9711,44</td>
+           </tr>
+            
+              <tr>
+                <td style="color: #ec7000; font-weight: bold; font-family: arial; font-size: 23px; padding:10px;  background-color:#efe9e5">
+                  ROF</td>
+            <td style="color: #6c6d70 ; font-weight: bold; font-family: arial; font-size: 23px; padding:10px;  background-color:#faf7f5;">
+                  TB016126</td>
+           </tr>
+            
+              <tr>
+                <td style="color: #ec7000; font-weight: bold; font-family: arial; font-size: 23px; padding:10px;  background-color:#efe9e5">
+                  Agência</td>
+            <td style="color: #6c6d70 ; font-weight: bold; font-family: arial; font-size: 23px; padding:10px;  background-color:#faf7f5;">
+            1403</td>
+          </tr>
+            
+
+              <tr>
+                <td style="color: #ec7000; font-weight: bold; font-family: arial; font-size: 23px; padding:10px;  background-color:#efe9e5">
+                  Conta Corrente</td>
+                <td style="color: #6c6d70 ; font-weight: bold; font-family: arial; font-size: 23px; padding:10px;  background-color:#faf7f5;">  
+             590332</td>
+           </tr>
+            
+    </table>
+        
+        <p style="color:#6c6d70; font-family: arial; font-size: 17px; padding:10px;">O Imposto de Renda incidente sobre a operação de câmbio será recolhido pelo<br> banco - 25% reajustado e debitado na AG e C/C informada acima.</p>
+        
+        <!----------------------------- aceite sim/não ----------------------------------->
+   <div class="Reserva" style="background-color: #faf7f5; padding:30px">
+   <img src="https://data-business-3154-dev-ed--c.documentforce.com/servlet/servlet.ImageServer?id=0150t000000e6pN&oid=00D0t000000I7Xb&lastMod=1614178025000" style="padding-left:32px;"><br><br>
+        <a href="mailto:test@example.com?subject= ID:156 Aviso de vencimento &body=#RESERVAR" style="color:#ec7000; font-size:23px; font-family:arial; font-weight: bold; padding:20px;">Sim,<span style="color:#6c6d70; font-family: arial; font-size: 23px;  font-weight: normal;"> quero reservar a Ptax para a operação indicada no <br> quadro acima, nos valores de Principal e Juros que lá<br> constam, para D-1 de 13/10/2020.</span></a>
+        <br><br>
+       
+       <img src="https://data-business-3154-dev-ed--c.documentforce.com/servlet/servlet.ImageServer?id=0150t000000e6pS&oid=00D0t000000I7Xb&lastMod=1614178043000" style="padding-left: 32px;"><br><br>
+        <a href="mailto:test@example.com?subject= ID:156 Aviso de vencimento &body=#NAORESERVAR" style="color:#ec7000; font-size:23px; font-family:arial; font-weight: bold; padding:20px;"> Não<span style="color:#6c6d70; font-family: arial; font-size: 23px; font-weight: normal;"> quero reservar a Ptax, efetuarei o pagamento de outra forma.
+            </span></a>
+    </div>
+        
+        <!------------- importancia da reserva ---------------->
+         <p style="color: #ec7000; font-weight: bold; font-family: arial; font-size: 23px; padding:05px;"> 
+            Porque a reserva da Ptax é importante?</p>
+        <ul style="color:#6c6d70; font-family: arial; font-size: 20px; padding:05px;">
+             <li style="font-weight: bold;">Se você contratou um Empréstimo Externo + <br>Derivativo:<span style="font-weight: normal">Reservando a PTAX, você garantirá que a taxa de Câmbio<br> contratada para a liquidação das parcelas do Empréstimo em Moeda<br> Estrangeira será a mesa taxa de liquidação do Derivativo contratado<br> para hedge da exposição cambial.Desta forma, você terá o hedge<br> perfeito!</span></li><br><br>
+             <li style="font-weight: bold;"> Se você contratou uma 4131 em Reais: <span style="font-weight: normal">Reservando a PTAX, você <br>garantirá que o valor da Moeda Estrangeira que será remitido para o<br> Credor Externo está de acordo com as condições contratuais. Lembre-<br>se que em caso de não pagamento das parcelas na data de<br> vencimento, haverá exposição cambial sobre estas parcelas.</span></li><br>
+          </ul> 
+        
+      <p style="color: #ec7000; font-weight: bold; font-family: arial; font-size: 20px; padding:05px; "> Atenção:<span style="color:#6c6d70; font-weight: normal;"> qualquer e-mail recebido após a seleção da opção<br> acima será desconsiderado.</span> 
+    </p>
+        
+        
+
+     <p style="color:#6c6d70; font-family: arial; font-size: 20px; padding:05px;"> Dúvidas em relação à     reserva da Ptax, inclusive quanto ao<br> recolhimento do tributo correspondente e ao eventual<br> cancelamento da operação, entre em   contato com a mesa de<br> câmbio pelo (11) 3708-8085 até o dia 09/10/2020 às 17:00.<br>
+       Anexamos a nota de débito da referida parcela. Caso deseje<br> que o débito seja efetuado em uma AG e C/C diferente, por<br> gentileza enviar sua solicitação para <br><span style="font-weight: bold">atendimentoposvendame@itaubba.com</span> até a data acima<br> indicada.
+        <br><br><br>
+       Se necessário alterar o e-mail cadastrado, por favor, envie<br> solicitação para <span style="font-weight: bold">atendimentoposvendame@itaubba.com<br></span> informando o novo endereço.
+        <br><br><br>
+       Eventuais dúvidas adicionais, a mesa de câmbio e o seu<br> gerente/officer de relacionamento estão à disposição.
+</p>
+    <br><br>
+        <p style="color: #ec7000; font-weight: bold; font-family: arial; font-size: 22px; padding:05px;">   Bons negócios </p>
+        <img src="https://data-business-3154-dev-ed--c.documentforce.com/servlet/servlet.ImageServer?id=0150t000000e6pX&oid=00D0t000000I7Xb&lastMod=1614262020000" style="padding:15px;"/>
+        
+        
+    <!--------------------------------------- rodapé ---------------------------------->
+      <div class="test" style="background-color: #faf7f5; padding:35px;">
+            <p style="color:#6c6d70; font-family: arial; font-size: 18px; padding:50px;  font-weight: bold; padding-left:20px;">
+              dê preferência aos canais digitais
+            </p>
+            <div class="img">
+                <table> 
+                    <tr>
+                        <td style="padding-left: 50px;"><img src="https://data-business-3154-dev-ed--c.documentforce.com/servlet/servlet.ImageServer?id=0150t000000e6fz&oid=00D0t000000I7Xb&lastMod=1614176801000">
+                          </td>
+                        <td style="padding-left: 75px;"><img src="https://data-business-3154-dev-ed--c.documentforce.com/servlet/servlet.ImageServer?id=0150t000000e6kC&oid=00D0t000000I7Xb&lastMod=1614176862000">
+                          </td>
+                        <td style="padding-left: 75px;"><img src="https://data-business-3154-dev-ed--c.documentforce.com/servlet/servlet.ImageServer?id=0150t000000e6kH&oid=00D0t000000I7Xb&lastMod=1614176916000">
+                          </td>
+                    </tr>
+                </table>
+            <br>    
+         </div>
+             <table >
+            <tr>
+              <td style="color: #6c6d70; font-family: arial; font-size: 11px; padding-left:50px;"><span style="font-weight: bold;"> Central de atendimento<br>
+                  4090 1685</span> Capitais e regiões metropolitanas <br>com telefones celulares. <span style="font-weight: bold;">0800 770 1685</span><br> Demais localidades somente chamadas de<br> telefone fixo. Consultas, informações, <br>reclamações e transações, todos os dias, 24h<br> por dia.</td>
+               
+                <td style="color: #6c6d70; font-family: arial; font-size: 11px; padding-left:80px;"><span style="font-weight: bold;">SAC: 0800 728 0728</span> Reclamações, cancelamentos e <br>informações gerais, todos os dias, 24h por dia<br>                    
+                    <span style="font-weight: bold;">Ouvidoria: 0800 570</span> Se não ficar satisfei com a solução<br> apresentada, contate a Ouvidoria em dias úteis, das 9h às 18h <span style="font-weight: bold;"><br>Deficiente auditivo/fala: 0800 722 1722</span> Todos os dias, 24h por<br> dia</td>
+           </tr>
+             </table>
+            </div>
+    </div> 
+    
+    </body>
+</html>

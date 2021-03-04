@@ -41,9 +41,8 @@ jobs:
         run: 'sfdx force:org:create -f config/project-scratch-def.json -a ${{ env.SCRATCH_NAME }} --durationdays ${{ env.DURATION_DAYS }}'
       - name: Generate password
         run: 'sfdx force:user:password:generate -u ${{ env.SCRATCH_NAME }}'
-      - name: Push source
-        run: 'sfdx force:source:push -u ${{ env.SCRATCH_NAME }}'
       - name: List orgs
         run: 'sfdx force:org:list'
       - name: Open org
         run : 'sfdx force:org:open -u ${{ env.SCRATCH_NAME }}'
+     

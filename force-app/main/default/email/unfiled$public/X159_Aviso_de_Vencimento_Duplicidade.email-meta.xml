@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Reserva de Ptax em duplicidade</description>
+    <encodingKey>UTF-8</encodingKey>
+    <letterhead>X126_Aviso_Vencimento</letterhead>
+    <name>159 Aviso de Vencimento Duplicidade</name>
+    <style>formalLetter</style>
+    <subject>Reserva de Ptax em duplicidade</subject>
+    <textOnly>Prezado(a),
+
+
+Recebemos comando a respeito da reserva de PTAX em duplicidade.
+
+Lembre-se que você deve realizar os pagamentos devidos até a data do vencimento.
+
+Portanto, apenas a sua primeira opção já foi processada e todas as seguintes serão desconsideradas.
+
+Caso pretenda alterá-la, entre em contato com a mesa de câmbio tempestivamente.
+
+
+Bons negócios.
+
+
+
+
+
+
+
+
+dê preferência aos canais digitais
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Central de atendimento
+
+4090 1685 Capitais e regiões metropolitanas com telefones celulares. 0800 770 1685 Demais localidades somente chamadas de telefone fixo. Consultas, informações, reclamações e transações, todos os dias, 24h por dia.
+
+
+
+
+SAC: 0800 728 0728 Reclamações, cancelamentos e  informações gerais, todos os dias, 24h por dia
+
+Ouvidoria: 0800 570 Se não ficar satisfeito com a solução apresentada, contate a Ouvidoria em dias úteis, das 9h às 18h Deficiente auditivo/fala: 0800 722 1722 Todos os dias, 24h por dia</textOnly>
+    <type>html</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>
