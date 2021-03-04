@@ -340,5 +340,9 @@
   <members>*</members>
   <name>CustomField</name>
 </types>
+<types>
+  <members>*</members>
+  <name>RecordType</name>
+</types>
 	<version>50.0</version>
 </Package>
