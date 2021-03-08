@@ -17,7 +17,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Required</behavior>
-                <field>CNPJ__c</field>
+                <field>CNPJ_CPF__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
