@@ -47,7 +47,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>CNPJ_CPF__c</field>
+                <field>CNPJ__c</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
